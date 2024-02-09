@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=t0YxmIv4KJ0&ab_channel=TecnologiaenElectronicayC
 https://www.youtube.com/watch?v=9t9R5fMqDVs&ab_channel=RIVUS%C2%AE  
 
 <p align="center">
-  <img src="Imagenes/Imagen11.jpg" alt="Imagen11" width="50%">
+  <img src="Imagenes/Imagen11.png" alt="Imagen11" width="30%">
 </p>
 
 Robots móviles 
@@ -133,7 +133,7 @@ Aplicaciones de robots en fabricación
 Atención médica: Los robots se utilizan en hospitales y clínicas para realizar una variedad de tareas, como realizar cirugías, administrar medicamentos y brindar rehabilitación. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la atención al paciente en el entorno de atención médica. 
 
 <p align="center">
-  <img src="Imagenes/Imagen14.jpg" alt="Imagen14" width="50%">
+  <img src="Imagenes/Imagen14.png" alt="Imagen14" width="30%">
 </p>
 
 Aplicaciones de robots en la atención médica 
