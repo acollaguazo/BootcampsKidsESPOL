@@ -19,7 +19,13 @@ La historia de la robótica se remonta a la antigua Grecia, cuando los inventore
 
 | El Mecanismo de Anticitera |
 |-----------------------------|
-| Es un dispositivo de cálculo complejo de la antigua Grecia. Se data entre los años 150 a. C. y 100 a. C. Se considera el primer ordenador analógico conocido. Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos. Está hecho de bronce y tiene 30 engranajes. Se considera una maravilla tecnológica de la antigua Grecia. Se puede ver en el Museo Arqueológico Nacional de Atenas. |
+| Es un dispositivo de cálculo complejo de la antigua Grecia. 
+Se data entre los años 150 a. C. y 100 a. C. 
+Se considera el primer ordenador analógico conocido. 
+Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos. 
+Está hecho de bronce y tiene 30 engranajes. 
+Se considera una maravilla tecnológica de la antigua Grecia. 
+Se puede ver en el Museo Arqueológico Nacional de Atenas. |
 
 El Mecanismo de Anticitera: 
 
