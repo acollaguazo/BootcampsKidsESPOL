@@ -40,7 +40,7 @@ En el siglo XVIII, el inventor francés Jacques de Vaucanson creó una serie de 
 El siglo XX vio un rápido desarrollo en el campo de la robótica. En la década de 1950, se desarrollaron los primeros robots industriales. Estos robots se utilizaron en fábricas para realizar tareas repetitivas como soldar y pintar.  
 
 <p align="center">
-  <img src="../Imagenes/Imagenes/Imagen1.png" alt="Imagen1" width="40%">
+  <img src="../Imagenes/Imagen1.png" alt="Imagen1" width="40%">
 </p>
 
 En la década de 1970, se desarrollaron los primeros robots manipuladores. Estos robots se podían utilizar para realizar tareas más complejas, como ensamblar componentes electrónicos.
