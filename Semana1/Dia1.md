@@ -17,7 +17,10 @@ https://www.youtube.com/watch?v=8I8nMtzN05s&ab_channel=20thCenturyStudios
 ## Historia de la robótica 
 La historia de la robótica se remonta a la antigua Grecia, cuando los inventores comenzaron a crear máquinas que podían moverse por sí mismas. Uno de los primeros ejemplos de un robot es el autómata de Anticitera, una máquina mecánica que se utilizó para predecir posiciones astronómicas. (PRESENTAR VIDEO GAFAS VR) 
 
- 
+| El Mecanismo de Anticitera |
+|-----------------------------|
+| Es un dispositivo de cálculo complejo de la antigua Grecia. Se data entre los años 150 a. C. y 100 a. C. Se considera el primer ordenador analógico conocido. Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos. Está hecho de bronce y tiene 30 engranajes. Se considera una maravilla tecnológica de la antigua Grecia. Se puede ver en el Museo Arqueológico Nacional de Atenas. |
+
 El Mecanismo de Anticitera: 
 
 Es un dispositivo de cálculo analógico complejo de la antigua Grecia. 
