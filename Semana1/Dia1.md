@@ -42,31 +42,31 @@ La historia de la robótica se remonta a la antigua Grecia, cuando los inventore
 <tbody>
   <tr>
    <td class="tg-mcqj">Es un dispositivo de cálculo complejo de la antigua Grecia.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
    <td class="tg-mcqj">Se data entre los años 150 a. C. y 100 a. C.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
    <td class="tg-mcqj">Se considera el primer ordenador analógico conocido.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
    <td class="tg-mcqj">Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
    <td class="tg-mcqj">Está hecho de bronce y tiene 30 engranajes.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
    <td class="tg-mcqj">Se considera una maravilla tecnológica de la antigua Grecia.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
   <tr>
    <td class="tg-mcqj">Se puede ver en el Museo Arqueológico Nacional de Atenas.</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">30</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
   </tr>
 </tbody>
 </table>
