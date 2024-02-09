@@ -40,43 +40,43 @@ En el siglo XVIII, el inventor francés Jacques de Vaucanson creó una serie de 
 El siglo XX vio un rápido desarrollo en el campo de la robótica. En la década de 1950, se desarrollaron los primeros robots industriales. Estos robots se utilizaron en fábricas para realizar tareas repetitivas como soldar y pintar.  
 
 <p align="center">
-  <img src="Imagenes/Imagen1.png" alt="Imagen1" width="50%">
+  <img src="Imagenes/Imagen1.png" alt="Imagen1" width="40%">
 </p>
 
 En la década de 1970, se desarrollaron los primeros robots manipuladores. Estos robots se podían utilizar para realizar tareas más complejas, como ensamblar componentes electrónicos.
 
 <p align="center">
-  <img src="Imagenes/Imagen2.png" alt="Imagen2" width="50%">
+  <img src="Imagenes/Imagen2.png" alt="Imagen2" width="40%">
 </p>
 
 En la década de 1980, se desarrollaron los primeros robots móviles. Estos robots podían moverse por su cuenta y podían usarse para tareas como limpieza y exploración. 
 
 <p align="center">
-  <img src="Imagenes/Imagen3.png" alt="Imagen3" width="50%">
+  <img src="Imagenes/Imagen3.png" alt="Imagen3" width="40%">
 </p>
 
 En la década de 1990, se desarrollaron los primeros robots humanoides. Estos robots podían caminar y hablar como los humanos, e incluso podían interactuar con su entorno de forma limitada.
 
 <p align="center">
-  <img src="Imagenes/Imagen4.png" alt="Imagen4" width="50%">
+  <img src="Imagenes/Imagen4.png" alt="Imagen4" width="40%">
 </p>
 
 El siglo XXI ha visto un mayor desarrollo en el campo de la robótica. Los robots ahora se utilizan en una variedad de aplicaciones, que incluyen atención médica, agricultura y exploración espacial. Los robots se están volviendo cada vez más sofisticados y capaces, y es probable que desempeñen un papel cada vez más importante en nuestras vidas en el futuro.
 
 <p align="center">
-  <img src="Imagenes/Imagen5.png" alt="Imagen5" width="50%">
+  <img src="Imagenes/Imagen5.png" alt="Imagen5" width="40%">
 </p>
 
 <p align="center">
-  <img src="Imagenes/Imagen6.png" alt="Imagen6" width="50%">
+  <img src="Imagenes/Imagen6.png" alt="Imagen6" width="40%">
 </p>
 
 <p align="center">
-  <img src="Imagenes/Imagen7.png" alt="Imagen7" width="50%">
+  <img src="Imagenes/Imagen7.png" alt="Imagen7" width="40%">
 </p>
 
 <p align="center">
-  <img src="Imagenes/Imagen8.png" alt="Imagen8" width="50%">
+  <img src="Imagenes/Imagen8.png" alt="Imagen8" width="40%">
 </p>
 
 ## Tipos de robots
@@ -85,14 +85,14 @@ Hay muchos tipos diferentes de robots, cada uno con sus propias capacidades y ap
 Robots industriales: estos robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. 
 
 <p align="center">
-  <img src="Imagenes/Imagen9.png" alt="Imagen9" width="50%">
+  <img src="Imagenes/Imagen9.png" alt="Imagen9" width="40%">
 </p>
 
 
 Robots manipuladores: estos robots se pueden utilizar para realizar tareas más complejas, como manipular objetos pequeños y realizar operaciones quirúrgicas. 
 
 <p align="center">
-  <img src="Imagenes/Imagen10.png" alt="Imagen10" width="50%">
+  <img src="Imagenes/Imagen10.png" alt="Imagen10" width="40%">
 </p>
  
 
@@ -112,7 +112,7 @@ Robots humanoides: estos robots pueden caminar y hablar como los humanos, e 
 https://www.youtube.com/watch?v=cpraXaw7dyc&ab_channel=Tesla  
 
 <p align="center">
-  <img src="Imagenes/Imagen12.png" alt="Imagen12" width="50%">
+  <img src="Imagenes/Imagen12.png" alt="Imagen12" width="40%">
 </p>
 
 ### Aplicaciones de robots en el mundo real 
@@ -122,7 +122,7 @@ Los robots se utilizan en una amplia variedad de aplicaciones en el mundo real. 
 Fabricación: los robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la seguridad en el entorno de fabricación. 
 
 <p align="center">
-  <img src="Imagenes/Imagen13.png" alt="Imagen13" width="50%">
+  <img src="Imagenes/Imagen13.png" alt="Imagen13" width="40%">
 </p>
  
 
@@ -136,7 +136,7 @@ Atención médica: Los robots se utilizan en hospitales y clínicas para reali
 Agricultura: los robots se utilizan en granjas para realizar tareas como cosechar cultivos, plantar semillas y ordeñar vacas. Los robots pueden ayudar a mejorar la eficiencia, la productividad y la sostenibilidad en la industria agrícola. 
 
 <p align="center">
-  <img src="Imagenes/Imagen15.png" alt="Imagen15" width="50%">
+  <img src="Imagenes/Imagen15.png" alt="Imagen15" width="40%">
 </p>
 
 https://www.youtube.com/watch?v=hVvs6_Wx2HM&ab_channel=BillyLi  
@@ -145,7 +145,7 @@ https://www.youtube.com/watch?v=hVvs6_Wx2HM&ab_channel=BillyLi
 Exploración espacial: los robots se utilizan para explorar planetas, lunas y asteroides. Los robots pueden ayudar a los científicos a aprender más sobre nuestro sistema solar y el universo. 
 
 <p align="center">
-  <img src="Imagenes/Imagen16.png" alt="Imagen16" width="50%">
+  <img src="Imagenes/Imagen16.png" alt="Imagen16" width="40%">
 </p>
 
 https://www.youtube.com/watch?v=V8PisoKmZG8&ab_channel=ROBOTZLAB 
