@@ -85,14 +85,14 @@ Hay muchos tipos diferentes de robots, cada uno con sus propias capacidades y ap
 Robots industriales: estos robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen9.png" alt="Imagen9" width="70%">
+  <img src="Imagenes/Imagen9.png" alt="Imagen9" width="50%">
 </p>
 
 
 Robots manipuladores: estos robots se pueden utilizar para realizar tareas más complejas, como manipular objetos pequeños y realizar operaciones quirúrgicas. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen10.png" alt="Imagen10" width="70%">
+  <img src="Imagenes/Imagen10.png" alt="Imagen10" width="50%">
 </p>
  
 
@@ -103,7 +103,7 @@ https://www.youtube.com/watch?v=t0YxmIv4KJ0&ab_channel=TecnologiaenElectronicayC
 https://www.youtube.com/watch?v=9t9R5fMqDVs&ab_channel=RIVUS%C2%AE  
 
 <p align="center">
-  <img src="../Imagenes/Imagen11.jpg" alt="Imagen11" width="70%">
+  <img src="Imagenes/Imagen11.jpg" alt="Imagen11" width="30%">
 </p>
  
 
@@ -122,21 +122,21 @@ Los robots se utilizan en una amplia variedad de aplicaciones en el mundo real. 
 Fabricación: los robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la seguridad en el entorno de fabricación. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen13.png" alt="Imagen13" width="70%">
+  <img src="Imagenes/Imagen13.png" alt="Imagen13" width="50%">
 </p>
  
 
 Atención médica: Los robots se utilizan en hospitales y clínicas para realizar una variedad de tareas, como realizar cirugías, administrar medicamentos y brindar rehabilitación. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la atención al paciente en el entorno de atención médica. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen14.jpg" alt="Imagen14" width="70%">
+  <img src="Imagenes/Imagen14.jpg" alt="Imagen14" width="30%">
 </p>
 
 
 Agricultura: los robots se utilizan en granjas para realizar tareas como cosechar cultivos, plantar semillas y ordeñar vacas. Los robots pueden ayudar a mejorar la eficiencia, la productividad y la sostenibilidad en la industria agrícola. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen15.png" alt="Imagen15" width="70%">
+  <img src="Imagenes/Imagen15.png" alt="Imagen15" width="50%">
 </p>
 
 https://www.youtube.com/watch?v=hVvs6_Wx2HM&ab_channel=BillyLi  
@@ -145,7 +145,7 @@ https://www.youtube.com/watch?v=hVvs6_Wx2HM&ab_channel=BillyLi
 Exploración espacial: los robots se utilizan para explorar planetas, lunas y asteroides. Los robots pueden ayudar a los científicos a aprender más sobre nuestro sistema solar y el universo. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen16.png" alt="Imagen16" width="70%">
+  <img src="Imagenes/Imagen16.png" alt="Imagen16" width="50%">
 </p>
 
 https://www.youtube.com/watch?v=V8PisoKmZG8&ab_channel=ROBOTZLAB 
