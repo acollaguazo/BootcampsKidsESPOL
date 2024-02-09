@@ -82,21 +82,21 @@ El siglo XXI ha visto un mayor desarrollo en el campo de la robótica. Los robot
 ## Tipos de robots
 Hay muchos tipos diferentes de robots, cada uno con sus propias capacidades y aplicaciones únicas. Algunos de los tipos de robots más comunes incluyen: 
 
-Robots industriales: estos robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. 
+- Robots industriales: estos robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. 
 
 <p align="center">
   <img src="../Imagenes/Imagen9.png" alt="Imagen9" width="40%">
 </p>
 
 
-Robots manipuladores: estos robots se pueden utilizar para realizar tareas más complejas, como manipular objetos pequeños y realizar operaciones quirúrgicas. 
+- Robots manipuladores: estos robots se pueden utilizar para realizar tareas más complejas, como manipular objetos pequeños y realizar operaciones quirúrgicas. 
 
 <p align="center">
   <img src="../Imagenes/Imagen10.png" alt="Imagen10" width="40%">
 </p>
  
 
-Robots móviles: estos robots pueden moverse por su cuenta y se pueden usar para tareas como limpieza y exploración. 
+- Robots móviles: estos robots pueden moverse por su cuenta y se pueden usar para tareas como limpieza y exploración. 
 
 https://www.youtube.com/watch?v=t0YxmIv4KJ0&ab_channel=TecnologiaenElectronicayControlSRL 
 
@@ -107,7 +107,7 @@ https://www.youtube.com/watch?v=9t9R5fMqDVs&ab_channel=RIVUS%C2%AE
 </p>
  
 
-Robots humanoides: estos robots pueden caminar y hablar como los humanos, e incluso pueden interactuar con su entorno de forma limitada. 
+- Robots humanoides: estos robots pueden caminar y hablar como los humanos, e incluso pueden interactuar con su entorno de forma limitada. 
 
 https://www.youtube.com/watch?v=cpraXaw7dyc&ab_channel=Tesla  
 
@@ -119,21 +119,21 @@ https://www.youtube.com/watch?v=cpraXaw7dyc&ab_channel=Tesla
 
 Los robots se utilizan en una amplia variedad de aplicaciones en el mundo real. Algunas de las aplicaciones más comunes de los robots incluyen: 
 
-Fabricación: los robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la seguridad en el entorno de fabricación. 
+- Fabricación: los robots se utilizan en fábricas para realizar tareas repetitivas como soldar, pintar y ensamblar componentes. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la seguridad en el entorno de fabricación. 
 
 <p align="center">
   <img src="../Imagenes/Imagen13.png" alt="Imagen13" width="40%">
 </p>
  
 
-Atención médica: Los robots se utilizan en hospitales y clínicas para realizar una variedad de tareas, como realizar cirugías, administrar medicamentos y brindar rehabilitación. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la atención al paciente en el entorno de atención médica. 
+- Atención médica: Los robots se utilizan en hospitales y clínicas para realizar una variedad de tareas, como realizar cirugías, administrar medicamentos y brindar rehabilitación. Los robots pueden ayudar a mejorar la precisión, la eficiencia y la atención al paciente en el entorno de atención médica. 
 
 <p align="center">
   <img src="../Imagenes/Imagen14.png" alt="Imagen14" width="20%">
 </p>
 
 
-Agricultura: los robots se utilizan en granjas para realizar tareas como cosechar cultivos, plantar semillas y ordeñar vacas. Los robots pueden ayudar a mejorar la eficiencia, la productividad y la sostenibilidad en la industria agrícola. 
+- Agricultura: los robots se utilizan en granjas para realizar tareas como cosechar cultivos, plantar semillas y ordeñar vacas. Los robots pueden ayudar a mejorar la eficiencia, la productividad y la sostenibilidad en la industria agrícola. 
 
 <p align="center">
   <img src="../Imagenes/Imagen15.png" alt="Imagen15" width="40%">
@@ -142,7 +142,7 @@ Agricultura: los robots se utilizan en granjas para realizar tareas como cosec
 https://www.youtube.com/watch?v=hVvs6_Wx2HM&ab_channel=BillyLi  
  
 
-Exploración espacial: los robots se utilizan para explorar planetas, lunas y asteroides. Los robots pueden ayudar a los científicos a aprender más sobre nuestro sistema solar y el universo. 
+- Exploración espacial: los robots se utilizan para explorar planetas, lunas y asteroides. Los robots pueden ayudar a los científicos a aprender más sobre nuestro sistema solar y el universo. 
 
 <p align="center">
   <img src="../Imagenes/Imagen16.png" alt="Imagen16" width="40%">

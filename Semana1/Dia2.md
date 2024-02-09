@@ -16,28 +16,28 @@ La mecánica y la electrónica son dos disciplinas fundamentales que forman la b
 
 Los conceptos básicos de la mecánica incluyen: 
 
-Fuerza: Cualquier interacción que, al actuar sobre un objeto, tiende a cambiar su estado de reposo o de movimiento uniforme. 
+- Fuerza: Cualquier interacción que, al actuar sobre un objeto, tiende a cambiar su estado de reposo o de movimiento uniforme. 
 
 Actividad, para a niños uno en frente del otro y se tomen de la mano (O CON UN MDF EN MEDIO DE SUS MANOS) y empiecen a empujarse progresivamente PERO DELICADAMENTE, y después aumentamos a niños detrás de cada uno y que apoyen empujando progresiva y cuidadosamente. 
 
-Masa: La cantidad de materia que contiene un objeto. 
+- Masa: La cantidad de materia que contiene un objeto. 
 
-Peso: La fuerza gravitatoria que actúa sobre un objeto. 
+- Peso: La fuerza gravitatoria que actúa sobre un objeto. 
 
-Aceleración: La tasa de cambio de la velocidad de un objeto. 
+- Aceleración: La tasa de cambio de la velocidad de un objeto. 
 
-Energía: La capacidad de realizar trabajo.  
+- Energía: La capacidad de realizar trabajo.  
 
 Actividad: se pedirá a un niño que levante algo (que consideramos q no va a poder hacerlo, a continuación, llamamos a un segundo niño que lo ayude y así hasta conseguir que lo muevan o levanten y los mantengan alzados por unos minutos o segundos (CARTONES VACÍOS O CON PAPELES ADENTRO)   demostrando la energía que se necesita para realizar trabajos, después un segundo niño lo ayuda y verifican que es menso cansado                                                                                                
 ## Electrónica 
 
 Los conceptos básicos de la electrónica incluyen: 
 
-Corriente eléctrica: El flujo de electrones a través de un conductor. 
+. Corriente eléctrica: El flujo de electrones a través de un conductor. 
 
-Voltaje: La diferencia de potencial eléctrico entre dos puntos. 
+- Voltaje: La diferencia de potencial eléctrico entre dos puntos. 
 
-Resistencia: La oposición al flujo de la corriente eléctrica. 
+- Resistencia: La oposición al flujo de la corriente eléctrica. 
 
 Actividad, un grupo de niños estará en conjunto parados de un lado sosteniendo una tabla fina q representará el voltaje constante, y cada uno de esos niños será una resistencia de 20Ω, y del otro lado un solo niño queriendo empujar, siendo este la corriente, después desplazaremos niño por niño del lado de las resistencias al lado de la corriente, para demostrar que, a menor resistencia, mayor corriente con un voltaje constante. 
 
@@ -85,15 +85,15 @@ Un microcontrolador es un pequeño circuito integrado que se puede programar par
 
 La mecánica y la electrónica se utilizan en una amplia variedad de aplicaciones, incluyendo: 
 
-Automatización: La mecánica y la electrónica se utilizan para automatizar tareas en una amplia variedad de industrias, desde la fabricación hasta la agricultura. 
+- Automatización: La mecánica y la electrónica se utilizan para automatizar tareas en una amplia variedad de industrias, desde la fabricación hasta la agricultura. 
 
-Robótica: La mecánica y la electrónica se utilizan para construir robots que pueden realizar tareas de forma autónoma. 
+- Robótica: La mecánica y la electrónica se utilizan para construir robots que pueden realizar tareas de forma autónoma. 
 
-Transporte: La mecánica y la electrónica se utilizan para diseñar y construir vehículos, desde automóviles hasta aviones. 
+- Transporte: La mecánica y la electrónica se utilizan para diseñar y construir vehículos, desde automóviles hasta aviones. 
 
-Comunicaciones: La mecánica y la electrónica se utilizan para diseñar y construir sistemas de comunicación, desde teléfonos hasta redes informáticas. 
+- Comunicaciones: La mecánica y la electrónica se utilizan para diseñar y construir sistemas de comunicación, desde teléfonos hasta redes informáticas. 
 
-Medicina: La mecánica y la electrónica se utilizan para diseñar y construir equipos médicos, desde máquinas de rayos X hasta marcapasos. 
+- Medicina: La mecánica y la electrónica se utilizan para diseñar y construir equipos médicos, desde máquinas de rayos X hasta marcapasos. 
 
 ## Conclusión 
 
