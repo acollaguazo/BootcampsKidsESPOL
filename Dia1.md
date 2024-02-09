@@ -1,3 +1,9 @@
+---
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+---
+
 ## Semana 1: Introducción a la Robótica 
 ## Día 1
 ## Introducción a los conceptos básicos de robótica
