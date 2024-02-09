@@ -1,3 +1,9 @@
+---
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+---
+
 ## Día 2 
 
 Fundamentos de mecánica y electrónica. Introducción a componentes básicos como motores, sensores y microcontroladores. 
@@ -40,6 +46,7 @@ Actividad, un grupo de niños estará en conjunto parados de un lado sosteniendo
 ### Motores 
 
 Un motor es un dispositivo que convierte la energía eléctrica en energía mecánica. Los motores se utilizan en una amplia variedad de aplicaciones, desde automóviles y electrodomésticos hasta juguetes y robots.  
+
 
 <p align="center">
   <img src="Imagenes/Imagen17_2.png" alt="Imagen17_2" width="50%">
