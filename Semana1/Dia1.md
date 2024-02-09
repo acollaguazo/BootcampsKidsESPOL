@@ -26,22 +26,7 @@ Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelé
 Está hecho de bronce y tiene 30 engranajes. 
 Se considera una maravilla tecnológica de la antigua Grecia. 
 Se puede ver en el Museo Arqueológico Nacional de Atenas. |
-
-El Mecanismo de Anticitera: 
-
-Es un dispositivo de cálculo analógico complejo de la antigua Grecia. 
-
-Se data entre los años 150 a. C. y 100 a. C. 
-
-Se considera el primer ordenador analógico conocido. 
-
-Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos. 
-
-Está hecho de bronce y tiene 30 engranajes. 
-
-Se considera una maravilla tecnológica de la antigua Grecia. 
-
-Se puede ver en el Museo Arqueológico Nacional de Atenas. 
+ 
 
 En el siglo XVIII, el inventor francés Jacques de Vaucanson creó una serie de autómatas realistas, incluido un pato que podía caminar, nadar y comer. En el siglo XIX, el inventor estadounidense Joseph Jacquard desarrolló un telar que podía programarse con tarjetas perforadas. Este fue un avance importante en el desarrollo de la robótica, ya que demostró que las máquinas podían controlarse mediante instrucciones preprogramadas. 
 
