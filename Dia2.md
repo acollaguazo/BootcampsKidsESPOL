@@ -1,3 +1,9 @@
+---
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+---
+
 ## Día 2 
 
 Fundamentos de mecánica y electrónica. Introducción a componentes básicos como motores, sensores y microcontroladores. 
