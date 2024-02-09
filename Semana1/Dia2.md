@@ -49,15 +49,15 @@ Un motor es un dispositivo que convierte la energía eléctrica en energía mec�
 
 
 <p align="center">
-  <img src="../Imagenes/Imagen17_2.png" alt="Imagen17_2" width="50%">
+  <img src="../Imagenes/Imagen17_2.png" alt="Imagen17_2" width="40%">
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Imagen18_2.png" alt="Imagen18_2" width="50%">
+  <img src="../Imagenes/Imagen18_2.png" alt="Imagen18_2" width="40%">
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Imagen19_2.png" alt="Motor" width="50%">
+  <img src="../Imagenes/Imagen19_2.png" alt="Motor" width="40%">
 </p> 
 
 ### Sensores 
@@ -65,7 +65,7 @@ Un motor es un dispositivo que convierte la energía eléctrica en energía mec�
 Un sensor es un dispositivo que detecta cambios en el entorno y convierte esos cambios en una señal eléctrica. Los sensores se utilizan en una amplia variedad de aplicaciones, desde sistemas de seguridad y control ambiental hasta dispositivos médicos y robots. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen20_2.png" alt="Sensor" width="50%">
+  <img src="../Imagenes/Imagen20_2.png" alt="Sensor" width="40%">
 </p> 
 
 
@@ -74,11 +74,11 @@ Un sensor es un dispositivo que detecta cambios en el entorno y convierte esos c
 Un microcontrolador es un pequeño circuito integrado que se puede programar para realizar tareas específicas. Los microcontroladores se utilizan en una amplia variedad de aplicaciones, desde dispositivos electrónicos de consumo hasta automóviles y robots. 
 
 <p align="center">
-  <img src="../Imagenes/Imagen21_2.png" alt="Imagen21_2" width="50%">
+  <img src="../Imagenes/Imagen21_2.png" alt="Imagen21_2" width="40%">
 </p> 
 
 <p align="center">
-  <img src="../Imagenes/Imagen22_2.png" alt="Microcontrolador " width="50%">
+  <img src="../Imagenes/Imagen22_2.png" alt="Microcontrolador " width="40%">
 </p> 
 
 ### Aplicaciones 
