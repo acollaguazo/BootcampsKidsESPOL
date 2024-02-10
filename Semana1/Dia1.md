@@ -24,7 +24,7 @@ La historia de la robótica se remonta a la antigua Grecia, cuando los inventore
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-l49g" colspan="1"><span style="font-weight:700">El Mecanismo de Anticitera</span></th>
+    <th class="tg-l49g" colspan="1"><span style="font-weight:300">El Mecanismo de Anticitera</span></th>
   </tr>
 </thead>
 <tbody>
