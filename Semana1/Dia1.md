@@ -17,42 +17,22 @@ https://www.youtube.com/watch?v=8I8nMtzN05s&ab_channel=20thCenturyStudios
 ## Historia de la robótica 
 La historia de la robótica se remonta a la antigua Grecia, cuando los inventores comenzaron a crear máquinas que podían moverse por sí mismas. Uno de los primeros ejemplos de un robot es el autómata de Anticitera, una máquina mecánica que se utilizó para predecir posiciones astronómicas. (PRESENTAR VIDEO GAFAS VR) 
 
-<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<table class="tg">
 <colgroup>
-<col style="width: 304px">
-<col style="width: 342px">
+<col style="width: 100%">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-l49g" colspan="1"><span style="font-weight:300">El Mecanismo de Anticitera</span></th>
+    <th class="tg-l49g" colspan="1"><span style="font-weight:700">El Mecanismo de Anticitera</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mcqj">Es un dispositivo de cálculo complejo de la antigua Grecia.</td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se data entre los años 150 a. C. y 100 a. C.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se considera el primer ordenador analógico conocido.</span></td>
-  </tr>
-<tr>
-    <td class="tg-mcqj"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Está hecho de bronce y tiene 30 engranajes.</span></td>
-  </tr>
-  <tr>
-     <td class="tg-mcqj"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se considera una maravilla tecnológica de la antigua Grecia.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se puede ver en el Museo Arqueológico Nacional de Atenas.</span></td>
+    <td class="tg-0pky">Es un dispositivo de cálculo complejo de la antigua Grecia.<br>Se data entre los años 150 a. C. y 100 a. C.<br>Se considera el primer ordenador analógico conocido.<br>Se utilizó para predecir posiciones astronómicas, eclipses y juegos panhelénicos.<br>Está hecho de bronce y tiene 30 engranajes.<br>Se considera una maravilla tecnológica de la antigua Grecia.<br>Se puede ver en el Museo Arqueológico Nacional de Atenas.</td>
   </tr>
 </tbody>
 </table>
 
-<br>
  
 
 En el siglo XVIII, el inventor francés Jacques de Vaucanson creó una serie de autómatas realistas, incluido un pato que podía caminar, nadar y comer. En el siglo XIX, el inventor estadounidense Joseph Jacquard desarrolló un telar que podía programarse con tarjetas perforadas. Este fue un avance importante en el desarrollo de la robótica, ya que demostró que las máquinas podían controlarse mediante instrucciones preprogramadas. 
