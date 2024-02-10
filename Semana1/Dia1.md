@@ -20,7 +20,6 @@ La historia de la robótica se remonta a la antigua Grecia, cuando los inventore
 <table class="tg" style="undefined;table-layout: fixed; width: 646px">
 <colgroup>
 <col style="width: 304px">
-<col style="width: 342px">
 </colgroup>
 <thead>
   <tr>
