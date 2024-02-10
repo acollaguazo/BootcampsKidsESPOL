@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=8I8nMtzN05s&ab_channel=20thCenturyStudios
 ## Historia de la robótica 
 La historia de la robótica se remonta a la antigua Grecia, cuando los inventores comenzaron a crear máquinas que podían moverse por sí mismas. Uno de los primeros ejemplos de un robot es el autómata de Anticitera, una máquina mecánica que se utilizó para predecir posiciones astronómicas. (PRESENTAR VIDEO GAFAS VR) 
 
-<table class="tg" style="undefined;table-layout: fixed; width: 646px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 304px">
 <col style="width: 342px">
