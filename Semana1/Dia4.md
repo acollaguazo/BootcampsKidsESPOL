@@ -6,7 +6,7 @@ plugins:
 
 [Regresar](/BootcampKidsESPOL/)
 
-Día 4 
+## Día 4 
 
 **Realizaremos** la misma práctica del día anterior, pero implementado con los materiales físicos, y siguiendo cada uno de los pasos indicados por el instructor. 
 
@@ -14,14 +14,14 @@ Después procederemos con la siguiente actividad
 
 Actividad: ensamblar un kit de robot Verificar que todos los componentes se encuentren en su mesa de trabajo 
 
-a. Dos ruedas. 
-b. Dos motores. 
-c. 4 jumpers. 
-d. Una rueda loca. 
-e. Porta pilas. 
-f. 4 pilas AA. 
-g. Juego de destornilladores. 
-h. tornillos. 
+- Dos ruedas. 
+- Dos motores. 
+- 4 jumpers. 
+- Una rueda loca. 
+- Porta pilas. 
+- 4 pilas AA. 
+- Juego de destornilladores. 
+- tornillos. 
 
 <p align="center">
   <img src="../Imagenes/Imagen34_4.png" alt="Imagen34_4" width="40%">

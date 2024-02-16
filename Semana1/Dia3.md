@@ -13,7 +13,7 @@ plugins:
 **Definición:** Un LED (siglas en inglés de Light Emitting Diode) es un diodo emisor de luz. Es un componente electrónico semiconductor que emite luz cuando una corriente eléctrica lo atraviesa.  
 
 <p align="center">
-  <img src="../Imagenes/Imagen23_3.png" alt="Imagen23_3" width="40%">
+  <img src="../Imagenes/Imagen23_3.png" alt="Imagen23_3" width="30%">
 </p>
 
 Es un componente electrónico semiconductor que emite luz cuando una corriente eléctrica lo atraviesa. 
@@ -38,7 +38,7 @@ Es un componente electrónico semiconductor que emite luz cuando una corriente e
 2. Resistencia de 220 ohmios 
 
 <p align="center">
-  <img src="../Imagenes/Imagen24_3.png" alt="Imagen24_3" width="40%">
+  <img src="../Imagenes/Imagen24_3.png" alt="Imagen24_3" width="30%">
 </p>
 
 **Definición:** Una resistencia es un componente electrónico que opone resistencia al paso de la corriente eléctrica. 
@@ -87,7 +87,7 @@ Es un componente electrónico semiconductor que emite luz cuando una corriente e
 4. ESP32 
 
 <p align="center">
-  <img src="../Imagenes/Imagen26_3.png" alt="Imagen26_3" width="40%">
+  <img src="../Imagenes/Imagen26_3.png" alt="Imagen26_3" width="30%">
 </p>
 
 **Definición:** El ESP32 es un microcontrolador de bajo costo, bajo consumo de energía y alta potencia de procesamiento. 
@@ -120,7 +120,7 @@ Es un componente electrónico semiconductor que emite luz cuando una corriente e
     -Inserta el LED en la protoboard. 
 
     <p align="center">
-      <img src="../Imagenes/Imagen27_3.png" alt="Imagen27_3" width="40%">
+      <img src="../Imagenes/Imagen27_3.png" alt="Imagen27_3" width="30%">
     </p>
 
     - **Identifica el cátodo (-) y el ánodo (+) del LED.** El cátodo es la pata más corta del LED. 
