@@ -10,6 +10,8 @@ plugins:
 
 ## Marco Teórico 
 
+1. LED
+
 **Definición:** Un LED (siglas en inglés de Light Emitting Diode) es un diodo emisor de luz. Es un componente electrónico semiconductor que emite luz cuando una corriente eléctrica lo atraviesa.  
 
 <p align="center">
