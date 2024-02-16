@@ -4,71 +4,177 @@ plugins:
 - jekyll-remote-theme
 ---
 
-## Objetivos 
+[Regresar](/BootcampKidsESPOL/)
 
-Al final de este taller, los niños podrán: 
+## Día 3 
 
-- Definir mecánica y electrónica. 
-- Identificar los componentes básicos de máquinas y dispositivos. 
--Explicar cómo funcionan los motores, sensores y microcontroladores. 
-- Construir un circuito simple. 
-- Programar un microcontrolador. 
+## Marco Teórico 
 
-## Materiales 
+**Definición:** Un LED (siglas en inglés de Light Emitting Diode) es un diodo emisor de luz. Es un componente electrónico semiconductor que emite luz cuando una corriente eléctrica lo atraviesa.  
 
-Para este taller, necesitarás los siguientes materiales: 
+<p align="center">
+  <img src="../Imagenes/Imagen23_3.png" alt="Imagen23_3" width="40%">
+</p>
 
-- Componentes básicos: 
+Es un componente electrónico semiconductor que emite luz cuando una corriente eléctrica lo atraviesa. 
 
-    - Motores 
-    - Sensores 
-    - Microcontroladores 
-    - Cables 
-    - Baterías 
-    - LEDs 
-    - Resistencias 
-    - Condensadores 
+**Funcionamiento:** Los LED funcionan aprovechando el principio de electroluminiscencia. Cuando se aplica una tensión eléctrica a un LED, los electrones del material semiconductor se recombinan con los huecos, liberando energía en forma de luz. 
 
-- Herramientas: 
+**Características:** 
+- Color: El color de la luz emitida por un LED depende del material semiconductor utilizado. Los colores más comunes son rojo, verde, azul, amarillo y blanco. 
 
-    - Alicates 
-    - Pelacables 
-    - Destornilladores 
-    - Multímetro 
+- Voltaje: La tensión de funcionamiento de un LED varía según el color. Los LED rojos, naranjas y amarillos suelen tener una tensión de funcionamiento de 1,8V a 2,2V, mientras que los LED verdes, azules y blancos suelen tener una tensión de funcionamiento de 3V a 3,5V. 
 
-- Otros materiales: 
+- Corriente: La corriente que circula por un LED debe ser limitada para evitar que se dañe. La corriente máxima recomendada para un LED suele ser de 20mA. 
 
-    - Cartón 
-    - Pegamento 
-    - Tijeras 
-    - Cinta adhesiva 
+**Aplicaciones:** Los LED se utilizan en una amplia variedad de aplicaciones, como: 
 
-## Actividades 
+- Iluminación.
+- Señalización.
+- Displays. 
+- Optoelectrónica.
+- Telecomunicaciones.
 
-Actividad 1: Introducción a la mecánica 
+2. Resistencia de 220 ohmios 
 
-En esta actividad, los niños aprenderán sobre los conceptos básicos de la mecánica, como la fuerza, la masa, la aceleración y la gravedad. 
+<p align="center">
+  <img src="../Imagenes/Imagen24_3.png" alt="Imagen24_3" width="40%">
+</p>
 
-- Actividad 1.1: Construye una catapulta simple con cartón y otros materiales. Experimenta con diferentes pesos y ángulos para ver cómo afectan la distancia que recorre la pelota. 
+**Definición:** Una resistencia es un componente electrónico que opone resistencia al paso de la corriente eléctrica. 
 
-- Actividad 1.2: Construye un carruaje con ruedas y ejes. Experimenta con diferentes pesos y pendientes para ver cómo afectan la velocidad del carruaje. 
+**Funcionamiento:** Las resistencias se fabrican con materiales resistivos, como el carbono o el metal. La resistencia de un material se mide en ohmios (Ω). 
 
-Actividad 2: Introducción a la electrónica 
+**Características:**
 
-En esta actividad, los niños aprenderán sobre los conceptos básicos de la electrónica, como la corriente, el voltaje, la resistencia y la capacitancia. 
+- Valor: El valor de una resistencia se indica en ohmios. Las resistencias de 220 ohmios son muy comunes en electrónica. 
 
-- Actividad 2.1: Construye un circuito simple con una batería, un LED y una resistencia. Experimenta con diferentes valores de resistencia para ver cómo afectan el brillo del LED. 
+- Tolerancia: La tolerancia de una resistencia indica la precisión de su valor. Las resistencias con una tolerancia del 5% son las más comunes. 
 
-- Actividad 2.2: Construye un circuito simple con un sensor de luz y un LED. Experimenta con diferentes niveles de luz para ver cómo afectan el estado del LED. 
+- Potencia: La potencia de una resistencia indica la cantidad de energía que puede disipar. Las resistencias de 1/4 de vatio son las más comunes. 
 
-Actividad 5: Microcontroladores 
+**Aplicaciones:** Las resistencias se utilizan en una amplia variedad de aplicaciones, como: 
 
-En esta actividad, los niños aprenderán sobre los microcontroladores y cómo se pueden utilizar para controlar dispositivos electrónicos. 
+- Limitación de la corriente. 
+- División de la tensión. 
+- Conversión de energía. 
+- Filtrado de señales. 
 
-- Actividad 5.1: Programa un microcontrolador para que haga parpadear un LED. 
+3. Protoboard 
 
-- Actividad 5.2: Programa un microcontrolador para que detecte la presencia de un objeto con un sensor de distancia y encienda un led. 
+<p align="center">
+  <img src="../Imagenes/Imagen25_3.png" alt="Imagen25_3" width="40%">
+</p>  
 
-## Conclusión 
+**Definición:** Un protoboard, también conocido como placa de pruebas o breadboard, es una herramienta que se utiliza para construir circuitos electrónicos de forma temporal. 
 
-Este taller ha proporcionado a los niños una introducción a los fundamentos de la mecánica y la electrónica. A través de una serie de actividades prácticas, los niños han explorado los conceptos básicos de estas dos disciplinas y cómo se utilizan para crear máquinas y dispositivos. 
+**Funcionamiento:** La protoboard está formada por una matriz de agujeros que se conectan eléctricamente entre sí. Los componentes electrónicos se insertan en estos agujeros y se conectan entre sí mediante cables de puente. 
+
+**Características:**
+
+- Tamaño: Las protoboards se fabrican en diferentes tamaños. La más común es la protoboard de tamaño completo, que tiene 830 puntos de conexión. 
+
+- Tipo: Las protoboards pueden ser de dos tipos: 
+    - Protoboard sin ranura central: Este tipo de protoboard tiene una ranura central que divide la placa en dos partes. La parte superior se utiliza para la alimentación y la parte inferior se utiliza para el circuito. 
+    - Protoboard con ranura central: Este tipo de protoboard no tiene ranura central. Se puede utilizar para circuitos más grandes. 
+
+**Aplicaciones:** Las protoboards se utilizan para: 
+
+- Prototipar circuitos electrónicos. 
+- Probar circuitos electrónicos. 
+- Reparar circuitos electrónicos. 
+
+4. ESP32 
+
+<p align="center">
+  <img src="../Imagenes/Imagen26_3.png" alt="Imagen26_3" width="40%">
+</p>
+
+**Definición:** El ESP32 es un microcontrolador de bajo costo, bajo consumo de energía y alta potencia de procesamiento. 
+
+**Características:** 
+
+- Microprocesador: El ESP32 tiene un microprocesador Xtensa LX106 de doble núcleo a 32 bits. 
+
+- Memoria: El ESP32 tiene 4 MB de memoria flash y 520 KB de SRAM. 
+
+- Conectividad: El ESP32 tiene Wi-Fi, Bluetooth y BLE. 
+
+- Interfaz: El ESP32 tiene una interfaz USB, GPIO, SPI, I2C, UART y ADC. 
+
+**Aplicaciones:** El ESP32 se puede utilizar para: 
+
+- Internet de las cosas (IoT). 
+- Dispositivos wearables. 
+- Domótica. 
+- Robótica. 
+
+ 
+
+**Actividad 1: Encendido del LED sin programación** 
+
+**Para esta práctica utilizaremos el simulador:** https://wokwi.com/projects/389719102071251969  
+
+1. **Conecta el LED a la protoboard:** 
+
+    -Inserta el LED en la protoboard. 
+
+    <p align="center">
+      <img src="../Imagenes/Imagen27_3.png" alt="Imagen27_3" width="40%">
+    </p>
+
+    - **Identifica el cátodo (-) y el ánodo (+) del LED.** El cátodo es la pata más corta del LED. 
+
+    - Conecta el cátodo del LED a la fila negativa de la protoboard (GND). 
+
+    <p align="center">
+      <img src="../Imagenes/Imagen28_3.png" alt="Imagen28_3" width="40%">
+    </p>
+
+    - Conecta el ánodo del LED a la fila positiva de la protoboard (5V), mediante una resistencia de 220Ω 
+
+    <p align="center">
+      <img src="../Imagenes/Imagen29_3.png" alt="Imagen29_3" width="40%">
+    </p>
+
+
+2. **Conecta el protoboard al pin 5V y el gnd de la esp32.** 
+
+    - Coloca el cable entre el pin 5V y la fila positiva de la protoboard (+). 
+
+    - Coloca el cable entre el pin GND y la final negativa del protoboard (-). 
+
+    <p align="center">
+      <img src="../Imagenes/Imagen30_3.png" alt="Imagen30_3" width="40%">
+    </p>
+ 
+
+3. **Verifica la conexión:** 
+
+    - Asegúrate de que todas las conexiones sean firmes. 
+
+    - Revisa que no haya cables sueltos o cortocircuitos. 
+
+4. **Enciende el ESP32:** 
+
+    - Conecta la placa ESP32 a la computadora en el puerto USB. 
+
+    - Observa el LED. El LED debería encenderse.  
+
+    <p align="center">
+      <img src="../Imagenes/Imagen31_3.png" alt="Imagen31_3" width="40%">
+    </p>
+
+5. Ahora procederemos a encender el led, con un botón. De tal forma que mientras se mantiene presionado el botón el led permanece encendido, se suelta y el led se apaga para ello cambiaremos el cable café, por un botón como se muestra a continuación: 
+
+<p align="center">
+  <img src="../Imagenes/Imagen32_3.png" alt="Imagen32_3" width="40%">
+</p>
+
+6. Ahora presionamos en play y mantenemos presionado el botón, donde podremos ver que el led se enciende. 
+
+<p align="center">
+  <img src="../Imagenes/Imagen33_3.png" alt="Imagen33_3" width="40%">
+</p>
+
+7. Ahora van a realizar lo mismo, pero para 5 leds en total de diferentes colores cada uno, en el mismo simulador. 

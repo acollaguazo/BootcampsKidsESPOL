@@ -4,6 +4,8 @@ plugins:
 - jekyll-remote-theme
 ---
 
+[Regresar](/BootcampKidsESPOL/)
+
 ## Semana 1: Introducción a la Robótica 
 ## Día 1
 ## Introducción a los conceptos básicos de robótica
