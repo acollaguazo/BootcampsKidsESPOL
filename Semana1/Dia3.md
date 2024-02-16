@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme
 ---
 
-[Regresar](/BootcampKidsESPOL/)
+[Regresar](/BootcampsKidsESPOL/)
 
 ## Día 3 
 

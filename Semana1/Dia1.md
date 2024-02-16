@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme
 ---
 
-[Regresar](/BootcampKidsESPOL/)
+[Regresar](/BootcampsKidsESPOL/)
 
 ## Semana 1: Introducción a la Robótica 
 ## Día 1
