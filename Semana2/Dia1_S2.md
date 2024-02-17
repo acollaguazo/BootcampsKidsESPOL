@@ -25,13 +25,13 @@ https://vr.vex.com/
 3. Vamos a colocar el bloque de conducir adelante ubicado en tren Motriz, y después le damos play y observamos el movimiento del carro
 
 <p align="center">
-  <img src="../Imagenes/ImagenS2_3.png" alt="ImagenS2_3" width="40%">
+  <img src="../Imagenes/ImagenS2_3.png" alt="ImagenS2_3" width="50%">
 </p>
  
 4. Le damos a stop, y ahora vamos a agregar un tiempo de espera de 1 segundo y un giro de 90 grados 
 
 <p align="center">
-  <img src="../Imagenes/ImagenS2_4.png" alt="ImagenS2_4" width="40%">
+  <img src="../Imagenes/ImagenS2_4.png" alt="ImagenS2_4" width="50%">
 </p>
 
 5. Ahora le damos play y podremos observar que el carro avanza por un segundo, gira 90 grados y se detiene 
