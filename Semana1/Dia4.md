@@ -31,11 +31,11 @@ Actividad: ensamblar un kit de robot Verificar que todos los componentes se encu
   <img src="../Imagenes/Imagen35_4.png" alt="Imagen35_4" width="30%">
 </p>
 
-2. Ajustamos la rueda loca a la base 
+2. Ajustamos la rueda loca a la base
 
 3. Ajustamos cada uno de los motores a la base de acrílico 
 
-4. Colocamos las dos ruedas en el eje de cada motor 
+4. Colocamos las dos ruedas en el eje de cada motor
 
 <p align="center">
   <img src="../Imagenes/Imagen36_4.png" alt="Imagen36_4" width="30%">

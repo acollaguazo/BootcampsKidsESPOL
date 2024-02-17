@@ -173,7 +173,7 @@ Es un componente electrónico semiconductor que emite luz cuando una corriente e
   <img src="../Imagenes/Imagen32_3.png" alt="Imagen32_3" width="40%">
 </p>
 
-6. Ahora presionamos en play y mantenemos presionado el botón, donde podremos ver que el led se enciende: 
+6. Ahora presionamos en play y mantenemos presionado el botón, donde podremos ver que el led se enciende:
 
 <p align="center">
   <img src="../Imagenes/Imagen33_3.png" alt="Imagen33_3" width="40%">
