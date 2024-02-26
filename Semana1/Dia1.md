@@ -1,10 +1,11 @@
 ---
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
 ---
 
 [Regresar](/BootcampsKidsESPOL/)
+
+
+# ROBOTICS BOOTCAMPS FOR KIDS
 
 ## Semana 1: Introducción a la Robótica 
 ## Día 1
